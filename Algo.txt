@@ -1,2 +1,8 @@
 1. Decide which business to order from
 2. Decide which type of pizza to order
+3. Call business and place order
+4. Pay at delivery or pay over the phone
+    4a. if pay at delivery add cash tip
+    4b. if pay over the phone have cc on hand
+5. wait for delivery and pay tip
+6. serve food and enjoy
